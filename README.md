@@ -17,7 +17,7 @@ I'm David Kroll, a full-stack web developer who has experience with the **PERN**
 
 ⚡ Fun facts: 
 - I played college football
-- I used to work as a tax accountant
+- I used to work in tax in the public accounting industry
 - I read a lot of 80s sci fi
 
 <!--
