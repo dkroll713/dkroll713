@@ -1,4 +1,11 @@
-### Hi there 👋
+## David Kroll
+
+React front-ends, Go back-ends, Postgres databases, & more
+
+HTML / CSS / JavaScript, Go, Java, Python, SQL, Google Apps Script
+
+
+<!-- ### Hi there 👋
 
 I'm David Kroll, a full-stack web developer who has experience with the **PERN**/**MERN** stack. I have knowledge of HTML/CSS/JavaScript, SQL, Python, and Google Apps Script. 
 
@@ -20,6 +27,7 @@ I'm David Kroll, a full-stack web developer who has experience with the **PERN**
 - I used to work in tax in the public accounting industry
 - I read a lot of 80s sci fi
 
+-->
 <!--
 Here are some ideas to get you started:
 
